@@ -1,0 +1,125 @@
+﻿  Number Guessing Game Prodigy InfoTech.cpp
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(154,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(164,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(174,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(211,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(223,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(248,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(260,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(315,37): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(327,37): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(353,37): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(443,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(467,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(483,39): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(557,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(558,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(567,44): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(580,44): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1272,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1311,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1338,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1373,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1417,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1455,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1713,12): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1725,17): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1796,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1796,10):
+  consider using '%lld' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1796,10):
+  consider using '%Id' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1796,10):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1878,16): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1985,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1985,11):
+  consider using '%lld' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1985,11):
+  consider using '%Id' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(1985,11):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(2001,33): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(2002,38): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\ABODAstd.h(2349,44): warning C4244: 'return': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Number%20Guessing%20Game%20Prodigy%20InfoTech.cpp')
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(30,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(30,10):
+  consider using '%lld' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(30,10):
+  consider using '%Id' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(30,10):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(38,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(38,10):
+  consider using '%lld' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(38,10):
+  consider using '%Id' in the format string
+  D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(38,10):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(99,84): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\source\repos\Number Guessing Game Prodigy InfoTech\Number Guessing Game Prodigy InfoTech.cpp(99,55): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Number Guessing Game Prodigy InfoTech.vcxproj -> D:\source\repos\Number Guessing Game Prodigy InfoTech\x64\Debug\Number Guessing Game Prodigy InfoTech.exe
